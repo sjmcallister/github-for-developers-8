@@ -3,3 +3,4 @@
 - Wisconsin Rapids, WI
 - Sushi
 - Drawing
+- Blue
